@@ -16,3 +16,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/digitalocean/digitalocean-original-wordmark.svg" width="50" heigth="50"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="50" heigth="50"/>
 </div>
+
+
+<i class="devicon-terraform-plain-wordmark colored"></i>
+          
