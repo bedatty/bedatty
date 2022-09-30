@@ -1,3 +1,5 @@
+<html>
+
 # Hello, my name is Lucas Bedatty! 
 ### Welcome to my GitHub profile 👋
 - 🔭 I’m currently working on <a href="https://www.caf.io/">Caf.io</a>
@@ -19,4 +21,4 @@
 
 
 <i class="devicon-terraform-plain-wordmark colored"></i>
-          
+</html>
