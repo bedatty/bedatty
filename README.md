@@ -52,6 +52,6 @@
 <br>
 
 <p align="center">
-     <img src="https://github-readme-stats.vercel.app/api?username=bedatty&show_icons=true&theme=dracula" alt="Bedatty's stats" height=170 />
+     <img src="https://github-readme-stats.vercel.app/api?username=bedatty&show_icons=true&theme=dark" alt="Bedatty's stats" height=200 />
 </p>
 </html>
