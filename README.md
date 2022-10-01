@@ -55,9 +55,12 @@
 </div>
 <br>
 
+#### Vpn
 <p align="center">
     <span>
         <img src="https://github-readme-stats.vercel.app/api?username=bedatty&show_icons=true&theme=dark" alt="Bedatty's stats" height=200 />
     </span>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bedatty)](https://github.com/anuraghazra/github-readme-stats)
 </p>
 </html>
