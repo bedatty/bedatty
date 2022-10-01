@@ -54,7 +54,9 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="80" heigth="80"/>
 </div>
 <br>
----
+<br>
+<br>
+<hr />
 <p align="center">
     <span>
         <img src="https://github-readme-stats.vercel.app/api?username=bedatty&show_icons=true&theme=dark" alt="Bedatty's stats" height=170 />
