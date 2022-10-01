@@ -51,5 +51,7 @@
 </div>
 <br>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bedatty&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+    [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bedatty&theme=dracula alt="Bedatty's stats" height=170)]
+</p>
 </html>
