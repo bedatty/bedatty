@@ -54,11 +54,11 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="80" heigth="80"/>
 </div>
 <br>
-
+---
 <p align="center">
     <span>
-        <img src="https://github-readme-stats.vercel.app/api?username=bedatty&show_icons=true&theme=dark" alt="Bedatty's stats" height=150 />
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bedatty&layout=compact&theme=dark" height="150">
+        <img src="https://github-readme-stats.vercel.app/api?username=bedatty&show_icons=true&theme=dark" alt="Bedatty's stats" height=170 />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bedatty&layout=compact&theme=dark" height="170">
     </span>
 </p>
 </html>
