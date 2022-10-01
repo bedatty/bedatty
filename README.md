@@ -4,10 +4,11 @@
 ### Welcome to my GitHub profile 👋
 - 🔭 I’m currently working on <a href="https://www.caf.io/">Caf.io</a>
 - 🌱 I’m currently learning IaC/CI/AWS
-- 📫 How to reach me: lucasbedatty01@gmail.com
+- 🎓 Undergraduated in <a href="http://www.ifsul.edu.br/">Computer Technician Integrated into High School</a    >
 - 😄 Pronouns: Bedatty
 - ⚡ Fun fact: I'm in love with my wife and DevOps
 
+#### Contacts
 [![Linkedin Badge](https://img.shields.io/badge/-Lucas%20Bedatty-3000cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-bedatty-%F0%9F%91%BE-a0477a204/)](https://www.linkedin.com/in/lucas-bedatty-%F0%9F%91%BE-a0477a204/)
 [![Gmail Badge](https://img.shields.io/badge/-lucasbedatty01@gmail.com-3000cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lucasbedatty01@gmail.com)](mailto:lucasbedatty01@gmail.com)
 
@@ -55,8 +56,8 @@
 <br>
 
 <p align="center">
-    <div>
+    <span>
         <img src="https://github-readme-stats.vercel.app/api?username=bedatty&show_icons=true&theme=dark" alt="Bedatty's stats" height=200 />
-    </div>
+    </span>
 </p>
 </html>
