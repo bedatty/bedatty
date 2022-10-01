@@ -8,7 +8,8 @@
 - 😄 Pronouns: Bedatty
 - ⚡ Fun fact: I'm in love with my wife and DevOps
 
-<p align=center>
+[![Linkedin Badge](https://img.shields.io/badge/-Lucas%20Bedatty-3000cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-bedatty-%F0%9F%91%BE-a0477a204/)](https://www.linkedin.com/in/lucas-bedatty-%F0%9F%91%BE-a0477a204/)
+[![Gmail Badge](https://img.shields.io/badge/-lucasbedatty01@gmail.com-3000cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lucasbedatty01@gmail.com)](mailto:lucasbedatty01@gmail.com)
 
 ### Ferramentas e Tecnologias
 #### Versionamento
@@ -52,8 +53,10 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="80" heigth="80"/>
 </div>
 <br>
-<div>
-     <img src="https://github-readme-stats.vercel.app/api?username=bedatty&show_icons=true&theme=dark" alt="Bedatty's stats" height=200 />
-</div>
+
+<p align="center">
+    <div>
+        <img src="https://github-readme-stats.vercel.app/api?username=bedatty&show_icons=true&theme=dark" alt="Bedatty's stats" height=200 />
+    </div>
 </p>
 </html>
