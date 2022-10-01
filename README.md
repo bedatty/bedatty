@@ -8,6 +8,8 @@
 - 😄 Pronouns: Bedatty
 - ⚡ Fun fact: I'm in love with my wife and DevOps
 
+<p align=center>
+
 ### Ferramentas e Tecnologias
 #### Versionamento
 <div>
@@ -50,8 +52,8 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="80" heigth="80"/>
 </div>
 <br>
-
-<p align="center">
+<div>
      <img src="https://github-readme-stats.vercel.app/api?username=bedatty&show_icons=true&theme=dark" alt="Bedatty's stats" height=200 />
+</div>
 </p>
 </html>
