@@ -60,7 +60,9 @@
     <span>
         <img src="https://github-readme-stats.vercel.app/api?username=bedatty&show_icons=true&theme=dark" alt="Bedatty's stats" height=200 />
     </span>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bedatty)](https://github.com/bedatty/github-readme-stats)
 </p>
+<p align="center">
+    <span>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bedatty&layout=compact)](https://github.com/bedatty/github-readme-stats)</span>
 </html>
