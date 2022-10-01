@@ -58,11 +58,7 @@
 <p align="center">
     <span>
         <img src="https://github-readme-stats.vercel.app/api?username=bedatty&show_icons=true&theme=dark" alt="Bedatty's stats" height=200 />
-    </span>
-    <br>
-    <br>
-    <span>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bedatty&layout=compact&theme=dark" height="220">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bedatty&layout=compact&theme=dark" height="200">
     </span>
 </p>
 </html>
