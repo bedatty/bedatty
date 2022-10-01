@@ -4,7 +4,7 @@
 ### Welcome to my GitHub profile 👋
 - 🔭 I’m currently working on <a href="https://www.caf.io/">Caf.io</a>
 - 🌱 I’m currently learning IaC/CI/AWS
-- 🎓 Undergraduated in <a href="http://www.ifsul.edu.br/">Computer Technician Integrated into High School</a    >
+- 🎓 Undergraduated in <a href="http://www.ifsul.edu.br/">Computer Technician Integrated into High School</a>
 - 😄 Pronouns: Bedatty
 - ⚡ Fun fact: I'm in love with my wife and DevOps
 
