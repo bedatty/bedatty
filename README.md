@@ -9,7 +9,7 @@
 - ⚡ Fun fact: I'm in love with my wife and DevOps
 
 #### Contacts
-[![Linkedin Badge](https://img.shields.io/badge/-Lucas%20Bedatty-3000cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-bedatty-%F0%9F%91%BE-a0477a204/)](https://www.linkedin.com/in/lucas-bedatty-%F0%9F%91%BE-a0477a204/)
+[![Linkedin Badge](https://img.shields.io/badge/-Lucas%20Bedatty-3000cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-c-bedatty-a0477a204/)](https://www.linkedin.com/in/lucas-c-bedatty-a0477a204/)
 [![Gmail Badge](https://img.shields.io/badge/-lucasbedatty01@gmail.com-3000cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lucasbedatty01@gmail.com)](mailto:lucasbedatty01@gmail.com)
 
 ### Ferramentas e Tecnologias
