@@ -2,7 +2,6 @@
 <head>
     <link rel="stylesheet" href="style.css">
     <style>
-        /* Centralizar e adicionar espaçamento apenas a partir de Ferramentas e Tecnologias */
         .tech-section {
             text-align: center;
         }
