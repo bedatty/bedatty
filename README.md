@@ -21,7 +21,7 @@
 <br>
 
 #### Cloud Providers
-<div style="display: flex; justify-content: flex-start; align-items: center; gap: 40px; padding: 20px;">
+<div style="display: flex; justify-content: flex-start; align-items: center; gap: 70px; padding: 20px;">
     <img src="assets/aws.png" width="110" height="110" alt="AWS"/>
     <img src="assets/DigitalOcean.png" width="140" height="140" alt="DigitalOcean"/>
     <img src="assets/MicrosoftAzure.png" width="170" height="110" alt="Azure"/>
@@ -30,7 +30,7 @@
 <br>
 
 #### IaC & Automation
-<div style="display: flex; justify-content: flex-start; align-items: center; gap: 40px; padding: 20px;">
+<div style="display: flex; justify-content: flex-start; align-items: center; gap: 70px; padding: 20px;">
     <img src="assets/terraform.png" width="100" height="140" alt="Terraform"/>
     <img src="assets/cloudformation.png" width="180" height="180" alt="CloudFormation"/>
     <img src="assets/cdk.png" width="300" height="120" alt="CDK"/>
@@ -38,14 +38,14 @@
 <br>
 
 #### Linux
-<div style="display: flex; justify-content: flex-start; align-items: center; gap: 40px; padding: 20px;">    
+<div style="display: flex; justify-content: flex-start; align-items: center; gap: 70px; padding: 20px;">    
     <img src="assets/linux.png" width="140" height="160" alt="Linux"/>
     <img src="assets/bash.png" width="180" height="100" alt="Bash"/>
 </div>
 <br>
 
 #### Containerization / CI-CD
-<div style="display: flex; justify-content: flex-start; align-items: center; gap: 40px; padding: 20px;">
+<div style="display: flex; justify-content: flex-start; align-items: center; gap: 70px; padding: 20px;">
     <img src="assets/docker.png" width="120" height="120" alt="Docker"/>
     <img src="assets/docker-compose.png" width="180" height="120" alt="Docker Compose"/>
     <img src="assets/k8s.png" width="120" height="120" alt="Kubernetes"/>
@@ -53,7 +53,7 @@
 <br>
 
 #### DBs
-<div style="display: flex; justify-content: flex-start; align-items: center; gap: 40px; padding: 20px;">
+<div style="display: flex; justify-content: flex-start; align-items: center; gap: 70px; padding: 20px;">
     <img src="assets/mongodb.png" width="160" height="170" alt="MongoDB"/>
     <img src="assets/Mysql.png" width="120" height="120" alt="MySQL"/>
     <img src="assets/dynamo.png" width="190" height="170" alt="DynamoDB"/>
