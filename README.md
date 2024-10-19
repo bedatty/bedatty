@@ -1,10 +1,13 @@
 <html>
 <head>
+    <!-- Certifique-se de que o arquivo style.css está disponível -->
     <link rel="stylesheet" href="style.css">
     <style>
+        /* Centralizar as seções de tecnologia */
         .tech-section {
             text-align: center;
         }
+        /* Adicionar espaçamento entre imagens */
         .tech-section div {
             margin-bottom: 20px;
         }
