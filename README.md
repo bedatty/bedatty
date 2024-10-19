@@ -14,49 +14,49 @@
 ## Ferramentas e Tecnologias
 #### Versionamento
 <div style="display: flex; justify-content: flex-start; align-items: center; gap: 40px; padding: 20px;">
-    <img src="assets/github.png" width="120" height="120" alt="GitHub"/>
-    <img src="assets/Gitlab.png" width="120" height="120" alt="GitLab"/>
+    <img src="assets/github.png" width="250" height="140" alt="GitHub"/>
+    <img src="assets/Gitlab.png" width="180" height="120" alt="GitLab"/>
     <img src="assets/git.png" width="120" height="120" alt="Git"/>
 </div>
 <br>
 
 #### Cloud Providers
 <div style="display: flex; justify-content: flex-start; align-items: center; gap: 40px; padding: 20px;">
-    <img src="assets/aws.png" width="120" height="120" alt="AWS"/>
-    <img src="assets/DigitalOcean.png" width="120" height="120" alt="DigitalOcean"/>
-    <img src="assets/MicrosoftAzure.png" width="120" height="120" alt="Azure"/>
-    <img src="assets/google-cloud.png" width="120" height="120" alt="GCP"/>
+    <img src="assets/aws.png" width="110" height="110" alt="AWS"/>
+    <img src="assets/DigitalOcean.png" width="140" height="140" alt="DigitalOcean"/>
+    <img src="assets/MicrosoftAzure.png" width="170" height="110" alt="Azure"/>
+    <img src="assets/google-cloud.png" width="130" height="110" alt="GCP"/>
 </div>
 <br>
 
 #### IaC & Automation
 <div style="display: flex; justify-content: flex-start; align-items: center; gap: 40px; padding: 20px;">
-    <img src="assets/terraform.png" width="120" height="120" alt="Terraform"/>
-    <img src="assets/cloudformation.png" width="120" height="120" alt="CloudFormation"/>
-    <img src="assets/cdk.png" width="120" height="120" alt="CDK"/>
+    <img src="assets/terraform.png" width="100" height="140" alt="Terraform"/>
+    <img src="assets/cloudformation.png" width="180" height="180" alt="CloudFormation"/>
+    <img src="assets/cdk.png" width="300" height="120" alt="CDK"/>
 </div>
 <br>
 
 #### Linux
 <div style="display: flex; justify-content: flex-start; align-items: center; gap: 40px; padding: 20px;">    
-    <img src="assets/linux.png" width="120" height="120" alt="Linux"/>
-    <img src="assets/bash.png" width="120" height="120" alt="Bash"/>
+    <img src="assets/linux.png" width="140" height="160" alt="Linux"/>
+    <img src="assets/bash.png" width="180" height="100" alt="Bash"/>
 </div>
 <br>
 
 #### Containerization / CI-CD
 <div style="display: flex; justify-content: flex-start; align-items: center; gap: 40px; padding: 20px;">
     <img src="assets/docker.png" width="120" height="120" alt="Docker"/>
-    <img src="assets/docker-compose.png" width="120" height="120" alt="Docker Compose"/>
+    <img src="assets/docker-compose.png" width="180" height="120" alt="Docker Compose"/>
     <img src="assets/k8s.png" width="120" height="120" alt="Kubernetes"/>
 </div>
 <br>
 
 #### DBs
 <div style="display: flex; justify-content: flex-start; align-items: center; gap: 40px; padding: 20px;">
-    <img src="assets/mongodb.png" width="120" height="120" alt="MongoDB"/>
+    <img src="assets/mongodb.png" width="160" height="170" alt="MongoDB"/>
     <img src="assets/Mysql.png" width="120" height="120" alt="MySQL"/>
-    <img src="assets/dynamo.png" width="120" height="120" alt="DynamoDB"/>
+    <img src="assets/dynamo.png" width="190" height="170" alt="DynamoDB"/>
     <img src="assets/Postgresql.png" width="120" height="120" alt="Postgres"/>
 </div>
 <br>
