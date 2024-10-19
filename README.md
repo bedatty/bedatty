@@ -1,59 +1,64 @@
 <html>
 
 # Hello, my name is Lucas Bedatty! 
-### Welcome to my GitHub profile 👋
+
 - 🔭 I’m currently working on <a href="https://www.caf.io/">Caf.io</a>
-- 🌱 I’m currently learning IaC/CI/AWS
-- 🎓 Undergraduated in <a href="http://www.ifsul.edu.br/">Computer Technician Integrated into High School</a>
-- 😄 Pronouns: Bedatty
-- ⚡ Fun fact: I'm in love with my wife and DevOps
+- 🌱 I’m currently learning Cloud architecture solutions
+- 🎓 Graduated in <a href="http://www.ifsul.edu.br/">Computer Technician Integrated into High School</a>
+- 🎓 Graduating in <a href="https://www.unopar.com.br/">Systems Analysis and Development</a>
 
-#### Contacts
+## Contacts
 [![Linkedin Badge](https://img.shields.io/badge/-Lucas%20Bedatty-3000cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-c-bedatty-a0477a204/)](https://www.linkedin.com/in/lucas-c-bedatty-a0477a204/)
-[![Gmail Badge](https://img.shields.io/badge/-lucasbedatty01@gmail.com-3000cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lucasbedatty01@gmail.com)](mailto:lucasbedatty01@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-lucasc.bedatty@gmail.com-3000cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lucasc.bedatty@gmail.com)](mailto:lucasc.bedatty@gmail.com)
 
-### Ferramentas e Tecnologias
+## Ferramentas e Tecnologias
 #### Versionamento
-<div>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="80" heigth="80"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original-wordmark.svg" width="80" heigth="80"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" width="100" heigth="100"/>
+<div style="display: flex; justify-content: flex-start; align-items: center; gap: 40px; padding: 20px;">
+    <img src="assets/github.png" width="120" height="120" alt="GitHub"/>
+    <img src="assets/Gitlab.png" width="120" height="120" alt="GitLab"/>
+    <img src="assets/git.png" width="120" height="120" alt="Git"/>
 </div>
 <br>
 
 #### Cloud Providers
-<div>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="100" heigth="100"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/digitalocean/digitalocean-original-wordmark.svg" width="100" heigth="100"/>
+<div style="display: flex; justify-content: flex-start; align-items: center; gap: 40px; padding: 20px;">
+    <img src="assets/aws.png" width="120" height="120" alt="AWS"/>
+    <img src="assets/DigitalOcean.png" width="120" height="120" alt="DigitalOcean"/>
+    <img src="assets/MicrosoftAzure.png" width="120" height="120" alt="Azure"/>
+    <img src="assets/google-cloud.png" width="120" height="120" alt="GCP"/>
 </div>
 <br>
 
-#### IaC
-<div>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="80" heigth="80"/>
+#### IaC & Automation
+<div style="display: flex; justify-content: flex-start; align-items: center; gap: 40px; padding: 20px;">
+    <img src="assets/terraform.png" width="120" height="120" alt="Terraform"/>
+    <img src="assets/cloudformation.png" width="120" height="120" alt="CloudFormation"/>
+    <img src="assets/cdk.png" width="120" height="120" alt="CDK"/>
 </div>
 <br>
 
 #### Linux
-<div>    
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="80" heigth="80"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="80" heigth="80"/>
+<div style="display: flex; justify-content: flex-start; align-items: center; gap: 40px; padding: 20px;">    
+    <img src="assets/linux.png" width="120" height="120" alt="Linux"/>
+    <img src="assets/bash.png" width="120" height="120" alt="Bash"/>
 </div>
 <br>
 
-#### Conteinerization / CI-CD
-<div>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="80" heigth="80"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="80" heigth="80"/>
+#### Containerization / CI-CD
+<div style="display: flex; justify-content: flex-start; align-items: center; gap: 40px; padding: 20px;">
+    <img src="assets/docker.png" width="120" height="120" alt="Docker"/>
+    <img src="assets/docker-compose.png" width="120" height="120" alt="Docker Compose"/>
+    <img src="assets/k8s.png" width="120" height="120" alt="Kubernetes"/>
 </div>
 <br>
 
 #### DBs
-<div>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="80" heigth="80"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="80" heigth="80"/>
+<div style="display: flex; justify-content: flex-start; align-items: center; gap: 40px; padding: 20px;">
+    <img src="assets/mongodb.png" width="120" height="120" alt="MongoDB"/>
+    <img src="assets/Mysql.png" width="120" height="120" alt="MySQL"/>
+    <img src="assets/dynamo.png" width="120" height="120" alt="DynamoDB"/>
+    <img src="assets/Postgresql.png" width="120" height="120" alt="Postgres"/>
 </div>
-<br>
 <br>
 <br>
 <hr />
@@ -63,4 +68,5 @@
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bedatty&layout=compact&theme=dark" height="170">
     </span>
 </p>
+
 </html>
