@@ -1,52 +1,81 @@
-# Hello, my name is Lucas Bedatty!
+# Lucas Bedatty
 
-- 🔭 I’m currently working on [Caf.io](https://www.caf.io/)
-- 🌱 I’m currently learning Cloud architecture solutions
-- 🎓 Graduated in [Computer Technician Integrated into High School](http://www.ifsul.edu.br/)
-- 🎓 Graduating in [Systems Analysis and Development](https://www.unopar.com.br/)
+Cloud-focused professional passionate about building reliable, scalable infrastructure. I work across the full platform engineering stack — from designing cloud architectures on AWS, GCP, and Azure to automating deployments with Terraform, CDK, and GitOps workflows. I enjoy tackling complex distributed systems challenges, tightening observability pipelines, and making developer experience smoother through solid CI/CD practices. Always learning, always shipping.
 
-## Contacts
-[![Linkedin Badge](https://img.shields.io/badge/-Lucas%20Bedatty-3000cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-c-bedatty-a0477a204/)](https://www.linkedin.com/in/lucas-c-bedatty-a0477a204/)
-[![Gmail Badge](https://img.shields.io/badge/-lucasc.bedatty@gmail.com-3000cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lucasc.bedatty@gmail.com)](mailto:lucasc.bedatty@gmail.com)
+## About Me
 
-## Ferramentas e Tecnologias
+- 💼 Currently working at [LerianStudio](https://lerian.studio)
+- ☁️ Focused on cloud architecture and platform engineering
+- 🎓 Computer Technician graduate at [IFSUL](http://www.ifsul.edu.br/)
+- 🎓 B.Sc. in Systems Analysis and Development at [UNOPAR](https://www.unopar.com.br/)
 
-### Versionamento
-- [GitHub](https://github.com/)
-- [GitLab](https://about.gitlab.com/)
-- [Git](https://git-scm.com/)
+## Contact
 
-### Cloud Providers
-- [AWS](https://aws.amazon.com/)
-- [DigitalOcean](https://www.digitalocean.com/)
-- [Microsoft Azure](https://azure.microsoft.com/)
-- [Google Cloud Platform](https://cloud.google.com/)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Lucas%20Bedatty-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-c-bedatty-a0477a204/)
+[![Email Badge](https://img.shields.io/badge/Email-lucasc.bedatty%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:lucasc.bedatty@gmail.com)
 
-### IaC & Automation
-- [Terraform](https://www.terraform.io/)
-- [CloudFormation](https://aws.amazon.com/cloudformation/)
-- [AWS CDK](https://aws.amazon.com/cdk/)
+## Technologies & Tools
 
-### Linux
-- [Linux](https://www.kernel.org/)
-- [Bash](https://www.gnu.org/software/bash/)
+#### ☁️ Cloud
+![AWS](https://img.shields.io/badge/AWS-%23FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-%234285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-%230078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230080FF?style=for-the-badge&logo=digitalocean&logoColor=white)
 
-### Containerization / CI-CD
-- [Docker](https://www.docker.com/)
-- [Docker Compose](https://docs.docker.com/compose/)
-- [Kubernetes](https://kubernetes.io/)
+#### 🏗️ Containers & Infrastructure
+![Docker](https://img.shields.io/badge/Docker-%232496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-%23FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Nginx](https://img.shields.io/badge/Nginx-%23009639?style=for-the-badge&logo=nginx&logoColor=white)
 
-### DBs
-- [MongoDB](https://www.mongodb.com/)
-- [MySQL](https://www.mysql.com/)
-- [DynamoDB](https://aws.amazon.com/dynamodb/)
-- [PostgreSQL](https://www.postgresql.org/)
+#### 🔧 IaC & DevOps
+![Terraform](https://img.shields.io/badge/Terraform-%235835CC?style=for-the-badge&logo=terraform&logoColor=white)
+![AWS CDK](https://img.shields.io/badge/AWS%20CDK-%23FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Helm](https://img.shields.io/badge/Helm-%230F1689?style=for-the-badge&logo=helm&logoColor=white)
+![ArgoCD](https://img.shields.io/badge/ArgoCD-%23EF7B4D?style=for-the-badge&logo=argo&logoColor=white)
+![GitOps](https://img.shields.io/badge/GitOps-%2300BFFF?style=for-the-badge&logo=git&logoColor=white)
+
+#### 🔁 CI/CD
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-%232088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-%23181717?style=for-the-badge&logo=github&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-%23FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
+![Git](https://img.shields.io/badge/Git-%23F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker Hub](https://img.shields.io/badge/Docker%20Hub-%232496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Amazon ECR](https://img.shields.io/badge/Amazon%20ECR-%23FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+
+#### 💻 Languages
+![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-%233776AB?style=for-the-badge&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-%23121011?style=for-the-badge&logo=gnubash&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+#### 🗄️ Databases
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%234169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![DynamoDB](https://img.shields.io/badge/DynamoDB-%234053D6?style=for-the-badge&logo=amazondynamodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-%234479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+#### 📊 Observability
+![CloudWatch](https://img.shields.io/badge/CloudWatch-%23FF4F8B?style=for-the-badge&logo=amazoncloudwatch&logoColor=white)
+![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-%23000000?style=for-the-badge&logo=opentelemetry&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-%23E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-%23F46800?style=for-the-badge&logo=grafana&logoColor=white)
 
 ---
 
+### 📈 GitHub Stats
+
 <p align="center">
-    <span>
-        <img src="https://github-readme-stats.vercel.app/api?username=bedatty&show_icons=true&theme=dark" alt="Bedatty's stats" height="170" />
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bedatty&layout=compact&theme=dark" height="170">
-    </span>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bedatty&theme=radical" alt="Lucas Bedatty GitHub profile details" />
+</p>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=bedatty&theme=radical" alt="Lucas Bedatty GitHub stats" height="170" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=bedatty&theme=radical" alt="Productive time" height="170" />
+</p>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bedatty&theme=radical" alt="Repos per language" height="170" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=bedatty&theme=radical" alt="Most used languages" height="170" />
+</p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=bedatty&theme=radical&hide_border=true" alt="Lucas Bedatty GitHub streak stats" height="170" />
 </p>
