@@ -9,10 +9,6 @@ Cloud-focused professional passionate about building reliable, scalable infrastr
 - 🎓 Computer Technician graduate at [IFSUL](http://www.ifsul.edu.br/)
 - 🎓 B.Sc. in Systems Analysis and Development at [UNOPAR](https://www.unopar.com.br/)
 
-## Contact
-
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Lucas%20Bedatty-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-c-bedatty-a0477a204/)
-[![Email Badge](https://img.shields.io/badge/Email-lucasc.bedatty%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:lucasc.bedatty@gmail.com)
 
 ## Technologies & Tools
 
